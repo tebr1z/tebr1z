@@ -52,7 +52,7 @@
 
 ###
 <details>
-  <summary><h3>:fire: My Stats :</h3></summary>
+  <summary><h3></h3></summary>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anvar-muzaffarli&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
