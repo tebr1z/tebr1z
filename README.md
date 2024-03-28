@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me : I am a  Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :floppy_disk: You can find my projects here hasimovtabriz.com.tr (Official Web site)
+- :floppy_disk: You can find my projects here https://hasimovtabriz.com.tr (Official Web site)
 
 - :elevator: I’m looking to collaborate on open source
 
